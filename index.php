@@ -3,15 +3,18 @@
 $sarasas = [
     [
     'name' => 'Petro Pizdzio',
-    'action' => 'Prap*stas telefonas',
+    'action' => 'Prap*stas',
+    'thing' => 'telefonas',
 ],
     [
     'name' => 'Tomo Ablomo',
-    'action' => 'naudojamas buljonas',
+    'action' => 'naudojamas',
+    'thing' => 'buljonas',
 ],
     [
     'name' => 'Anos Shitkovos',
-    'action' => 'pasibaiges rulonas',
+    'action' => 'pasibaiges',
+    'thing' => 'rulonas',
     ]
 ];
 
