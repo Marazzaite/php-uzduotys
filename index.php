@@ -16,5 +16,5 @@ $sarasas = [
     'thing' => 'rulonas',
     ]
 ];   
+
 var_dump($sarasas); 
-?>
