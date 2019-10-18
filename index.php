@@ -1,5 +1,4 @@
 <?php
-
 $sarasas = [
     [
     'name' => 'Petro Pizdzio',
@@ -16,9 +15,6 @@ $sarasas = [
     'action' => 'pasibaiges',
     'thing' => 'rulonas',
     ]
-];
-
-    
+];   
 var_dump($sarasas); 
-​
 ?>
